@@ -1,0 +1,181 @@
+Order ID,Customer Name,Food Item,Category,Quantity,Price,Payment Method,Order Time,customer_id,email,country,age,signup_date,marketing_opt_in
+3160,Margaret Wells,Pasta,Main,1,3.37,Credit Card,2025-03-04 07:41:41,5592.0,qolson@example.net,US,67.0,2020-10-12,True
+4626,George Smith,Fries,Starter,3,3.44,Credit Card,2025-05-05 08:56:44,5760.0,nkidd@example.net,ES,59.0,2023-12-11,False
+8170,Anna Smith,Pasta,Main,3,21.48,Cash,2025-05-28 17:07:49,3847.0,ydeleon@example.com,FR,66.0,2023-12-17,True
+9769,Scott Clark,Burger,Main,2,17.22,Cash,2025-05-28 22:37:55,12912.0,jasmineyoung@example.com,AU,31.0,2025-02-25,False
+4707,Robert Simmons,Soup,Starter,3,24.45,Cash,2025-08-06 13:59:04,5980.0,lindsey67@example.com,AU,26.0,2020-03-07,True
+6841,Amy Ellis,Brownie,Dessert,5,5.97,Credit Card,2025-08-12 09:36:10,13272.0,williamsonlisa@example.org,BR,59.0,2025-03-22,False
+9332,Michelle Rodriguez,Soup,Starter,3,14.6,Online Payment,2025-01-21 23:18:26,10365.0,tammyhernandez@example.org,SE,72.0,2022-12-04,True
+8800,Margaret Lopez,Soup,Starter,1,21.58,Cash,2025-06-26 13:08:04,9594.0,jhendrix@example.org,AE,25.0,2025-05-21,True
+4925,Lauren Freeman,Brownie,Dessert,5,12.99,Online Payment,2025-06-26 13:27:06,12484.0,stuart62@example.org,IN,67.0,2021-06-29,False
+6565,Brandy Lewis,Cake,Dessert,4,6.61,Debit Card,2025-05-30 18:14:36,11362.0,cassandra09@example.org,FR,27.0,2024-07-04,False
+1430,James Jones,Soup,Starter,1,17.38,Credit Card,2025-06-09 09:53:31,11306.0,nramos@example.org,NL,39.0,2022-07-21,True
+1430,James Jones,Soup,Starter,1,17.38,Credit Card,2025-06-09 09:53:31,17327.0,hriggs@example.net,IN,67.0,2020-08-28,True
+1430,James Jones,Soup,Starter,1,17.38,Credit Card,2025-06-09 09:53:31,19188.0,leslieponce@example.com,IN,34.0,2025-08-16,False
+4860,Eric Garcia,Ice Cream,Dessert,3,8.02,Debit Card,2025-02-01 04:21:21,1577.0,mpeterson@example.net,NL,53.0,2024-10-04,True
+4860,Eric Garcia,Ice Cream,Dessert,3,8.02,Debit Card,2025-02-01 04:21:21,5819.0,josephlee@example.org,BR,38.0,2022-05-24,False
+4860,Eric Garcia,Ice Cream,Dessert,3,8.02,Debit Card,2025-02-01 04:21:21,14773.0,kaylakidd@example.org,JP,62.0,2020-09-04,True
+4860,Eric Garcia,Ice Cream,Dessert,3,8.02,Debit Card,2025-02-01 04:21:21,15140.0,ahoward@example.com,MX,71.0,2023-10-08,False
+6857,Mary Johnson,Salad,Starter,4,13.08,Debit Card,2025-05-20 12:34:58,3468.0,timothy69@example.org,AU,41.0,2025-03-03,True
+6857,Mary Johnson,Salad,Starter,4,13.08,Debit Card,2025-05-20 12:34:58,7986.0,krista31@example.com,FR,47.0,2020-04-26,True
+6857,Mary Johnson,Salad,Starter,4,13.08,Debit Card,2025-05-20 12:34:58,18735.0,dana08@example.org,US,70.0,2023-10-28,False
+8996,Cassandra Alexander,Fries,Starter,4,7.58,Cash,2025-05-04 07:28:26,11692.0,ramoslatoya@example.com,FR,28.0,2023-07-21,True
+7161,Daniel Fisher,Brownie,Dessert,4,22.68,Online Payment,2025-02-10 02:47:14,13453.0,jonesbrandon@example.org,US,61.0,2020-02-03,True
+4859,Michael Miller,Salad,Starter,3,9.52,Cash,2025-04-12 14:32:05,751.0,shawnbrown@example.com,DE,21.0,2024-03-28,True
+4859,Michael Miller,Salad,Starter,3,9.52,Cash,2025-04-12 14:32:05,1582.0,jenkinsjaime@example.org,GB,21.0,2024-11-22,True
+4859,Michael Miller,Salad,Starter,3,9.52,Cash,2025-04-12 14:32:05,15891.0,robinsonshawn@example.com,IN,36.0,2025-02-03,True
+6353,James Barber,Brownie,Dessert,1,19.99,Debit Card,2025-05-05 20:34:34,19628.0,larsonkathryn@example.org,JP,45.0,2021-12-22,True
+9325,Gregory Brown,Ice Cream,Dessert,4,19.48,Cash,2025-03-12 08:06:31,2732.0,annehendrix@example.org,JP,72.0,2023-08-13,True
+5594,Raymond Cooper,Ice Cream,Dessert,5,16.81,Online Payment,2025-02-06 00:27:13,17339.0,juliewilkerson@example.org,US,62.0,2025-01-20,False
+9276,Alison Smith,Salad,Starter,4,21.35,Debit Card,2025-04-20 11:28:39,4228.0,aliciagarcia@example.org,ZA,22.0,2023-11-22,False
+7479,Richard Brown,Burger,Main,5,10.93,Debit Card,2025-05-15 19:57:46,9806.0,kingmaurice@example.net,US,39.0,2024-06-23,True
+7479,Richard Brown,Burger,Main,5,10.93,Debit Card,2025-05-15 19:57:46,17247.0,browningphilip@example.net,ES,24.0,2020-10-28,False
+9764,Mark Thomas,Pizza,Main,5,18.14,Debit Card,2025-07-08 04:59:34,115.0,jillwhite@example.com,AU,28.0,2022-07-23,False
+9764,Mark Thomas,Pizza,Main,5,18.14,Debit Card,2025-07-08 04:59:34,3638.0,joseph67@example.com,SG,55.0,2020-08-07,False
+7240,Patricia Smith,Ice Cream,Dessert,4,19.19,Online Payment,2025-04-27 20:03:06,1862.0,laura04@example.org,DE,63.0,2024-07-06,True
+6404,William Williams,Brownie,Dessert,5,16.54,Cash,2025-03-06 19:30:38,247.0,jessicathomas@example.com,GB,51.0,2024-03-20,False
+6404,William Williams,Brownie,Dessert,5,16.54,Cash,2025-03-06 19:30:38,4286.0,alexanderdavid@example.net,NL,43.0,2023-02-08,False
+2261,Sara Garcia,Soup,Starter,2,12.87,Cash,2025-01-16 05:53:32,2555.0,hmiller@example.com,ES,39.0,2023-08-18,False
+2110,Tracey Perez,Soup,Starter,1,20.0,Cash,2025-05-21 21:54:55,8371.0,xgarcia@example.com,JP,36.0,2024-10-19,True
+5394,Lisa Jones,Brownie,Dessert,3,2.16,Online Payment,2025-05-27 19:19:46,244.0,allison42@example.net,SE,43.0,2021-04-30,False
+5394,Lisa Jones,Brownie,Dessert,3,2.16,Online Payment,2025-05-27 19:19:46,3499.0,romerodaniel@example.net,US,31.0,2020-06-14,False
+5394,Lisa Jones,Brownie,Dessert,3,2.16,Online Payment,2025-05-27 19:19:46,11026.0,hlee@example.org,BR,32.0,2025-05-26,False
+5394,Lisa Jones,Brownie,Dessert,3,2.16,Online Payment,2025-05-27 19:19:46,14999.0,maycarrie@example.org,US,53.0,2023-02-07,False
+5394,Lisa Jones,Brownie,Dessert,3,2.16,Online Payment,2025-05-27 19:19:46,16518.0,scottlong@example.com,AU,75.0,2023-09-20,True
+5906,Diana Davis,Fries,Starter,3,4.63,Credit Card,2025-06-02 10:35:36,19746.0,steven53@example.com,ES,64.0,2023-04-17,False
+7824,Kimberly Gilbert,Brownie,Dessert,5,9.88,Cash,2025-05-22 21:34:05,6357.0,dhale@example.com,US,21.0,2020-03-27,True
+9053,Thomas Hernandez,Pizza,Main,4,16.4,Cash,2025-05-28 03:14:41,1660.0,rebecca58@example.net,US,59.0,2022-09-04,True
+4540,Daniel Lee,Burger,Main,4,21.64,Debit Card,2025-03-21 17:26:46,10031.0,jennygardner@example.com,SE,62.0,2025-03-13,True
+9154,Jessica Williams,Salad,Starter,3,22.49,Credit Card,2025-06-18 20:47:35,18333.0,fgreen@example.org,PL,52.0,2025-06-18,True
+2682,Elizabeth Smith,Pizza,Main,2,2.64,Online Payment,2025-02-05 17:47:23,4723.0,egreen@example.com,IN,19.0,2024-02-24,False
+2682,Elizabeth Smith,Pizza,Main,2,2.64,Online Payment,2025-02-05 17:47:23,7357.0,cameron43@example.com,AU,71.0,2025-09-30,True
+2682,Elizabeth Smith,Pizza,Main,2,2.64,Online Payment,2025-02-05 17:47:23,16870.0,millskaren@example.net,DE,54.0,2021-10-30,True
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,169.0,raymond19@example.org,ES,62.0,2024-05-12,True
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,3198.0,cannonryan@example.com,MX,19.0,2020-07-05,True
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,3301.0,weavernicholas@example.com,AU,34.0,2022-08-11,False
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,7211.0,fdavis@example.org,GB,47.0,2023-11-21,True
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,7591.0,ashley87@example.net,ES,28.0,2024-03-13,False
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,9866.0,tompotts@example.org,BR,31.0,2025-10-04,True
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,16705.0,benjamin90@example.org,MX,32.0,2022-01-16,False
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58,18404.0,tyler15@example.org,IN,29.0,2020-02-16,False
+5481,David Hamilton,Pasta,Main,3,18.74,Online Payment,2025-02-05 23:19:00,3773.0,wesleychavez@example.org,MX,24.0,2020-01-20,False
+5481,David Hamilton,Pasta,Main,3,18.74,Online Payment,2025-02-05 23:19:00,3996.0,millsjohn@example.com,IN,71.0,2022-04-01,False
+6753,Jennifer Reed,Fries,Starter,2,15.2,Debit Card,2025-06-03 05:28:54,5406.0,harrisanthony@example.net,US,52.0,2025-02-08,False
+1868,Joseph Butler,Pizza,Main,4,11.07,Credit Card,2025-02-12 06:26:46,10634.0,qgreene@example.org,AU,31.0,2025-03-05,True
+7705,Richard Garcia,Burger,Main,5,12.3,Online Payment,2025-02-11 03:19:15,2367.0,hannah29@example.net,US,70.0,2021-06-01,False
+7705,Richard Garcia,Burger,Main,5,12.3,Online Payment,2025-02-11 03:19:15,8780.0,amandadouglas@example.org,IN,57.0,2022-04-04,True
+7705,Richard Garcia,Burger,Main,5,12.3,Online Payment,2025-02-11 03:19:15,19154.0,elizabeth04@example.org,US,33.0,2020-12-13,True
+6266,Mark Davis,Brownie,Dessert,2,18.78,Credit Card,2025-07-28 02:34:47,1917.0,kristensanders@example.net,PL,35.0,2022-05-02,True
+6266,Mark Davis,Brownie,Dessert,2,18.78,Credit Card,2025-07-28 02:34:47,2787.0,charlesschultz@example.net,NL,39.0,2024-05-07,False
+6266,Mark Davis,Brownie,Dessert,2,18.78,Credit Card,2025-07-28 02:34:47,5866.0,sarah88@example.com,US,34.0,2025-08-05,True
+5951,David Patel,Burger,Main,2,9.76,Credit Card,2025-08-12 17:00:52,16525.0,wintersricky@example.org,DE,42.0,2023-08-10,True
+5460,Amy Brown,Pizza,Main,5,9.58,Credit Card,2025-05-03 18:38:26,17887.0,heather00@example.net,ZA,63.0,2022-04-15,True
+2891,James Bradley,Fries,Starter,1,19.41,Debit Card,2025-07-18 12:50:41,7716.0,ebauer@example.com,ZA,70.0,2025-08-10,True
+3327,Julie Johnson,Fries,Starter,1,19.11,Credit Card,2025-06-21 04:45:50,10952.0,danielstein@example.com,JP,58.0,2025-10-04,False
+3327,Julie Johnson,Fries,Starter,1,19.11,Credit Card,2025-06-21 04:45:50,14706.0,davidmendez@example.net,ES,69.0,2024-09-13,False
+3327,Julie Johnson,Fries,Starter,1,19.11,Credit Card,2025-06-21 04:45:50,17020.0,jessicayoung@example.net,NL,73.0,2025-01-31,False
+4062,Daniel Gomez,Ice Cream,Dessert,4,21.39,Online Payment,2025-05-31 23:14:05,19723.0,joe14@example.net,FR,61.0,2020-05-29,True
+3800,Christopher Rodriguez,Ice Cream,Dessert,1,13.78,Debit Card,2025-03-02 18:17:17,2970.0,njenkins@example.net,DE,50.0,2023-12-18,True
+3800,Christopher Rodriguez,Ice Cream,Dessert,1,13.78,Debit Card,2025-03-02 18:17:17,13488.0,hawkinsjames@example.net,AE,49.0,2024-09-01,True
+3800,Christopher Rodriguez,Ice Cream,Dessert,1,13.78,Debit Card,2025-03-02 18:17:17,17325.0,rebeccacrosby@example.net,NL,71.0,2023-10-05,False
+6706,Luis Welch,Brownie,Dessert,5,9.32,Debit Card,2025-04-06 18:44:14,12836.0,dakotahenderson@example.net,US,46.0,2022-06-19,False
+2660,Patricia Johnson,Burger,Main,3,14.93,Credit Card,2025-04-03 19:30:06,15652.0,kbrooks@example.com,US,24.0,2024-03-25,True
+8675,Anthony Griffin,Pasta,Main,3,6.38,Credit Card,2025-06-23 00:18:06,395.0,williamsmaria@example.org,PL,20.0,2025-08-25,True
+8675,Anthony Griffin,Pasta,Main,3,6.38,Credit Card,2025-06-23 00:18:06,7005.0,hectormorales@example.com,AU,73.0,2022-03-15,False
+4837,Mark Campbell,Salad,Starter,4,17.71,Debit Card,2025-05-04 13:34:04,3015.0,westshawn@example.net,PL,50.0,2020-08-06,True
+4837,Mark Campbell,Salad,Starter,4,17.71,Debit Card,2025-05-04 13:34:04,13859.0,stevenwong@example.net,FR,73.0,2023-11-29,True
+9922,Brian Brown,Pasta,Main,5,16.28,Credit Card,2025-08-10 10:15:37,10237.0,amynolan@example.net,IN,26.0,2025-06-17,True
+4352,Janet Clark,Soup,Starter,5,2.51,Credit Card,2025-04-09 04:26:07,15356.0,michaeladams@example.org,FR,46.0,2022-04-23,True
+4681,James Brown,Fries,Starter,3,8.73,Credit Card,2025-02-09 23:48:12,3001.0,sreyes@example.org,JP,19.0,2024-02-14,True
+4681,James Brown,Fries,Starter,3,8.73,Credit Card,2025-02-09 23:48:12,5703.0,adamhernandez@example.net,MX,63.0,2023-06-13,False
+4681,James Brown,Fries,Starter,3,8.73,Credit Card,2025-02-09 23:48:12,11949.0,dcole@example.com,US,45.0,2025-10-29,False
+7965,Timothy Thomas,Cake,Dessert,5,6.64,Online Payment,2025-04-22 00:59:45,2515.0,marclopez@example.org,IN,63.0,2025-03-10,False
+7965,Timothy Thomas,Cake,Dessert,5,6.64,Online Payment,2025-04-22 00:59:45,3993.0,nancy19@example.org,DE,24.0,2024-08-11,True
+1909,Jonathan Smith,Soup,Starter,4,16.89,Credit Card,2025-02-21 23:08:41,16453.0,mckenzietaylor@example.com,SE,73.0,2020-12-06,False
+1909,Jonathan Smith,Soup,Starter,4,16.89,Credit Card,2025-02-21 23:08:41,16863.0,fdalton@example.org,GB,63.0,2024-08-12,True
+7910,Christopher Ruiz,Salad,Starter,1,15.78,Online Payment,2025-01-18 18:55:13,16482.0,craigbrown@example.com,DE,43.0,2022-09-24,True
+2365,John Garcia,Cake,Dessert,4,16.17,Credit Card,2025-03-02 06:13:44,734.0,riveraamy@example.net,GB,50.0,2022-07-31,True
+3188,Jonathan Jones,Soup,Starter,4,11.67,Debit Card,2025-04-24 14:37:23,13088.0,hooperian@example.net,PL,70.0,2024-01-28,True
+4484,Amanda Jones,Pizza,Main,5,11.26,Cash,2025-05-30 11:32:08,7533.0,drakeclaire@example.com,CA,56.0,2024-06-20,True
+9578,Christopher Rodriguez,Salad,Starter,2,2.08,Debit Card,2025-08-13 11:41:21,2970.0,njenkins@example.net,DE,50.0,2023-12-18,True
+9578,Christopher Rodriguez,Salad,Starter,2,2.08,Debit Card,2025-08-13 11:41:21,13488.0,hawkinsjames@example.net,AE,49.0,2024-09-01,True
+9578,Christopher Rodriguez,Salad,Starter,2,2.08,Debit Card,2025-08-13 11:41:21,17325.0,rebeccacrosby@example.net,NL,71.0,2023-10-05,False
+3304,Ashley Davis,Pasta,Main,5,24.02,Online Payment,2025-06-07 16:06:02,11022.0,jody65@example.net,BR,53.0,2020-08-17,False
+5747,Richard Rodriguez,Ice Cream,Dessert,2,8.57,Credit Card,2025-04-10 12:57:23,18699.0,lisa53@example.com,SG,28.0,2023-05-22,True
+5747,Richard Rodriguez,Ice Cream,Dessert,2,8.57,Credit Card,2025-04-10 12:57:23,19329.0,stacy35@example.com,JP,61.0,2021-07-03,False
+6092,Timothy Miller,Fries,Starter,5,21.43,Cash,2025-07-11 04:42:09,1945.0,daniellehayes@example.org,US,22.0,2021-10-23,True
+6092,Timothy Miller,Fries,Starter,5,21.43,Cash,2025-07-11 04:42:09,4093.0,hward@example.org,DE,69.0,2021-11-04,False
+6092,Timothy Miller,Fries,Starter,5,21.43,Cash,2025-07-11 04:42:09,5430.0,allison09@example.com,JP,46.0,2023-08-03,True
+6092,Timothy Miller,Fries,Starter,5,21.43,Cash,2025-07-11 04:42:09,8839.0,gwalker@example.org,DE,27.0,2020-12-30,False
+6092,Timothy Miller,Fries,Starter,5,21.43,Cash,2025-07-11 04:42:09,15488.0,coxjennifer@example.com,BR,40.0,2023-11-08,True
+6329,James Thomas,Burger,Main,3,3.26,Online Payment,2025-01-18 21:53:02,708.0,victoria70@example.org,DE,73.0,2024-02-22,False
+6329,James Thomas,Burger,Main,3,3.26,Online Payment,2025-01-18 21:53:02,2452.0,rachel64@example.net,PL,38.0,2025-09-21,True
+9369,Michelle Harris,Burger,Main,5,20.75,Credit Card,2025-06-15 23:04:21,16968.0,powens@example.net,PL,54.0,2023-06-30,False
+7046,Jeremy Johnson,Pasta,Main,2,13.69,Cash,2025-04-13 18:17:07,1634.0,john90@example.net,BR,28.0,2021-04-13,False
+7046,Jeremy Johnson,Pasta,Main,2,13.69,Cash,2025-04-13 18:17:07,9064.0,ramosalison@example.org,GB,47.0,2022-11-06,False
+7046,Jeremy Johnson,Pasta,Main,2,13.69,Cash,2025-04-13 18:17:07,10636.0,jacquelineglover@example.net,BR,23.0,2022-08-29,False
+7046,Jeremy Johnson,Pasta,Main,2,13.69,Cash,2025-04-13 18:17:07,17934.0,rachel52@example.org,AU,71.0,2020-07-13,False
+7046,Jeremy Johnson,Pasta,Main,2,13.69,Cash,2025-04-13 18:17:07,19337.0,jpratt@example.org,BR,67.0,2024-02-17,False
+8482,Alexis Williams,Cake,Dessert,1,17.95,Credit Card,2025-03-14 04:14:22,9432.0,angelasalinas@example.net,GB,51.0,2025-03-10,True
+5766,Robert Glover,Brownie,Dessert,5,6.02,Debit Card,2025-01-25 20:37:46,18706.0,padillanathan@example.net,SG,62.0,2021-05-22,False
+2443,Charles Johnson,Pizza,Main,1,5.37,Credit Card,2025-02-15 22:47:05,4818.0,josephmurphy@example.net,ES,27.0,2025-07-15,True
+2443,Charles Johnson,Pizza,Main,1,5.37,Credit Card,2025-02-15 22:47:05,7996.0,lisa66@example.com,AE,67.0,2022-07-25,True
+5892,David Rodriguez,Cake,Dessert,5,22.63,Credit Card,2025-04-10 14:07:29,5342.0,adam88@example.com,IN,21.0,2021-07-09,True
+5892,David Rodriguez,Cake,Dessert,5,22.63,Credit Card,2025-04-10 14:07:29,12714.0,tcantu@example.net,AE,64.0,2023-07-16,False
+8740,Ashley Wilson,Cake,Dessert,5,12.26,Credit Card,2025-02-09 21:00:45,11231.0,robinsonlindsey@example.com,JP,38.0,2020-06-23,True
+8740,Ashley Wilson,Cake,Dessert,5,12.26,Credit Card,2025-02-09 21:00:45,17873.0,rodriguezmelissa@example.org,GB,65.0,2020-04-07,False
+2391,Denise Thompson,Salad,Starter,1,9.02,Debit Card,2025-01-04 01:09:15,288.0,joseph03@example.net,PL,45.0,2022-07-02,False
+6792,Jason Martin,Soup,Starter,4,8.76,Online Payment,2025-03-18 13:25:29,2488.0,elizabeth68@example.org,US,55.0,2024-04-10,False
+4060,Emily Jackson,Ice Cream,Dessert,4,13.71,Online Payment,2025-04-24 05:16:33,5325.0,pamelabarnes@example.com,ES,40.0,2023-07-16,True
+4908,Christina Garcia,Ice Cream,Dessert,4,2.51,Online Payment,2025-01-28 14:45:09,7951.0,xibarra@example.com,SE,71.0,2024-04-24,False
+4908,Christina Garcia,Ice Cream,Dessert,4,2.51,Online Payment,2025-01-28 14:45:09,12232.0,roberteaton@example.org,PL,27.0,2024-01-31,False
+9888,Timothy Harris,Pasta,Main,1,13.86,Debit Card,2025-06-03 18:34:12,17717.0,wyattjeremiah@example.net,FR,41.0,2024-03-12,False
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,169.0,raymond19@example.org,ES,62.0,2024-05-12,True
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,3198.0,cannonryan@example.com,MX,19.0,2020-07-05,True
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,3301.0,weavernicholas@example.com,AU,34.0,2022-08-11,False
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,7211.0,fdavis@example.org,GB,47.0,2023-11-21,True
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,7591.0,ashley87@example.net,ES,28.0,2024-03-13,False
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,9866.0,tompotts@example.org,BR,31.0,2025-10-04,True
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,16705.0,benjamin90@example.org,MX,32.0,2022-01-16,False
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13,18404.0,tyler15@example.org,IN,29.0,2020-02-16,False
+2799,William Collins,Ice Cream,Dessert,1,13.62,Cash,2025-06-25 13:54:05,995.0,alison58@example.com,AE,57.0,2020-09-29,True
+2799,William Collins,Ice Cream,Dessert,1,13.62,Cash,2025-06-25 13:54:05,2332.0,wardtammy@example.com,SG,60.0,2024-04-07,True
+2799,William Collins,Ice Cream,Dessert,1,13.62,Cash,2025-06-25 13:54:05,13548.0,darius90@example.net,BR,48.0,2025-09-01,False
+9513,Lisa Walters,Brownie,Dessert,2,9.81,Debit Card,2025-03-23 18:38:49,13354.0,gordonthomas@example.com,JP,51.0,2024-06-22,True
+9175,Mark Smith,Cake,Dessert,4,16.02,Credit Card,2025-07-28 06:31:06,10138.0,michael26@example.net,CA,42.0,2023-09-14,False
+9879,Joseph Barnes,Ice Cream,Dessert,3,4.05,Cash,2025-06-15 05:15:23,18554.0,richarddavidson@example.net,NL,42.0,2022-05-17,True
+7792,Brandon King,Salad,Starter,1,6.8,Debit Card,2025-07-14 14:41:50,10242.0,michaelwilson@example.net,FR,26.0,2021-04-14,False
+4195,Brian Smith,Brownie,Dessert,1,21.71,Debit Card,2025-03-03 22:26:19,10489.0,patkinson@example.com,ES,73.0,2023-03-26,False
+2318,Christopher Scott,Soup,Starter,5,13.95,Debit Card,2025-03-12 07:38:41,5520.0,laurenevans@example.org,DE,41.0,2024-11-19,True
+4525,Kimberly Carter,Salad,Starter,5,23.15,Credit Card,2025-03-17 09:05:44,18357.0,xmccall@example.org,AU,62.0,2025-02-07,False
+4959,Jennifer Pearson,Salad,Starter,3,11.61,Cash,2025-04-20 22:52:11,5526.0,matthew54@example.net,IN,32.0,2020-12-15,False
+4959,Jennifer Pearson,Salad,Starter,3,11.61,Cash,2025-04-20 22:52:11,12050.0,amanda74@example.net,DE,67.0,2024-09-20,False
+5098,Christina Johnson,Pasta,Main,5,10.46,Debit Card,2025-07-30 11:33:27,19869.0,fernandezadam@example.com,GB,21.0,2024-09-05,True
+5103,Brian Hernandez,Brownie,Dessert,3,13.97,Online Payment,2025-05-09 18:52:06,9303.0,paulgardner@example.org,CA,44.0,2023-03-11,True
+1496,David Ellis,Fries,Starter,5,20.81,Credit Card,2025-05-27 19:58:48,2340.0,spencerchloe@example.org,MX,61.0,2024-08-06,False
+2966,Heather Collins,Ice Cream,Dessert,2,8.85,Credit Card,2025-08-11 14:55:51,9579.0,lori59@example.org,AU,68.0,2024-06-14,False
+1057,Hannah Brown,Soup,Starter,5,5.12,Credit Card,2025-04-08 03:59:14,8179.0,martinezcraig@example.org,US,65.0,2021-05-24,True
+7532,Dennis Turner,Brownie,Dessert,4,23.76,Online Payment,2025-08-10 19:33:18,12541.0,brownshaun@example.net,IN,71.0,2022-08-07,True
+5614,Elizabeth Jones,Pizza,Main,5,8.86,Cash,2025-05-04 09:08:25,769.0,destiny31@example.org,CA,40.0,2020-09-03,False
+9207,Joseph Kelley,Brownie,Dessert,4,13.24,Cash,2025-02-13 01:16:21,15071.0,susanrice@example.org,AU,20.0,2022-02-07,True
+9207,Joseph Kelley,Brownie,Dessert,4,13.24,Cash,2025-02-13 01:16:21,19153.0,joshua15@example.org,ES,54.0,2021-06-01,True
+1489,James Moran,Ice Cream,Dessert,4,10.0,Cash,2025-01-02 15:46:54,18485.0,kwatson@example.org,US,71.0,2025-06-08,False
+9855,Anthony Robinson,Brownie,Dessert,5,3.58,Credit Card,2025-05-02 07:51:07,19560.0,patriciawalsh@example.com,US,26.0,2022-06-03,True
+4718,James Rose,Pizza,Main,1,5.11,Credit Card,2025-04-28 03:34:16,5622.0,michael92@example.org,US,48.0,2022-06-05,True
+6920,Jennifer Hunter,Fries,Starter,3,17.36,Cash,2025-06-07 11:18:33,9278.0,livingstonbrian@example.com,IN,38.0,2023-01-25,False
+9913,Kevin Walker,Fries,Starter,2,18.8,Debit Card,2025-04-30 05:04:46,7733.0,paul21@example.net,US,43.0,2025-01-31,False
+1402,Heather Russell,Brownie,Dessert,4,15.75,Credit Card,2025-03-12 14:07:38,15813.0,mary33@example.com,MX,47.0,2020-06-12,True
+9927,Gary Phillips,Pasta,Main,2,17.57,Debit Card,2025-03-24 20:55:14,10257.0,petergriffith@example.org,US,19.0,2021-11-08,True
+2141,Jennifer Williams,Pizza,Main,3,23.69,Debit Card,2025-06-17 11:43:21,13067.0,peterperez@example.com,DE,56.0,2022-07-13,True
+2141,Jennifer Williams,Pizza,Main,3,23.69,Debit Card,2025-06-17 11:43:21,13811.0,courtneyhoover@example.net,CA,55.0,2025-01-03,True
+2141,Jennifer Williams,Pizza,Main,3,23.69,Debit Card,2025-06-17 11:43:21,14451.0,licody@example.org,SG,59.0,2023-10-27,False
+6626,Robert Campbell,Salad,Starter,1,21.57,Cash,2025-04-20 13:58:42,12701.0,amanda20@example.com,FR,40.0,2024-07-07,False
+8875,Jennifer Moreno,Brownie,Dessert,2,20.3,Online Payment,2025-04-16 04:11:26,11165.0,leeanthony@example.net,ZA,31.0,2021-11-09,False
+3775,Heather Peterson,Burger,Main,5,14.54,Debit Card,2025-07-18 12:26:07,18968.0,michaelkelly@example.org,DE,39.0,2023-01-12,True
+6314,Amanda Mahoney,Burger,Main,4,9.64,Cash,2025-05-17 01:26:05,798.0,dshaffer@example.com,GB,18.0,2025-07-31,True
+1439,Eric Moss,Brownie,Dessert,5,7.94,Debit Card,2025-04-14 02:26:51,6509.0,ianboone@example.org,IN,35.0,2021-07-20,False
+1439,Eric Moss,Brownie,Dessert,5,7.94,Debit Card,2025-04-14 02:26:51,18456.0,ajacobs@example.com,DE,23.0,2020-03-14,False
+5227,James Butler,Soup,Starter,4,13.64,Online Payment,2025-02-12 18:13:14,10027.0,greenejuan@example.net,AU,58.0,2022-01-05,False
+5227,James Butler,Soup,Starter,4,13.64,Online Payment,2025-02-12 18:13:14,10827.0,lemolly@example.net,CA,72.0,2020-08-11,False
+1202,Brandy Smith,Pasta,Main,2,8.54,Credit Card,2025-08-03 23:47:28,6608.0,bhernandez@example.org,AE,42.0,2022-06-05,False
+1202,Brandy Smith,Pasta,Main,2,8.54,Credit Card,2025-08-03 23:47:28,7672.0,jamespatricia@example.com,JP,23.0,2022-07-16,False

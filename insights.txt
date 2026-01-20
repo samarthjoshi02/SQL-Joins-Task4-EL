@@ -1,0 +1,16 @@
+Business Insights (Task 4)
+
+1) Customer mapping quality:
+- Total orders: 500
+- Orders that matched a customer record (by name): 180 (36.0%)
+This indicates that many orders have customer names not present in the customers table, so joining by name can lose data. A unique CustomerID in orders would improve matching.
+
+2) Best performing category:
+- Highest revenue category: Main
+- Revenue from this category: 7026.79
+This category contributes the most to overall sales and should be prioritized for promotions/combos.
+
+3) Product demand and payment preference:
+- Top revenue food item: Pizza (2627.89)
+- Payment method generating most revenue: Credit Card
+The top food item can be highlighted as a bestseller, and the top payment method can be optimized with offers/discounts.
