@@ -4,7 +4,7 @@ This repository contains my submission for **Task 4** of my Data Analyst interns
 
 ---
 
-## 📌 Objective
+## Objective
 - Practice and implement **SQL JOINs**
 - Combine multiple datasets to answer business questions
 - Export joined results into a CSV file
@@ -12,7 +12,7 @@ This repository contains my submission for **Task 4** of my Data Analyst interns
 
 ---
 
-## 📂 Datasets Used
+## Datasets Used
 The following datasets were used:
 - `customers.csv` → customer details
 - `categories.csv` → category information
@@ -22,14 +22,14 @@ The following datasets were used:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - SQL (MySQL / SQL Workbench)
 - CSV dataset files
 - GitHub for submission
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 | File Name | Description |
 |----------|-------------|
 | `joins_queries.sql` | All SQL queries using INNER JOIN and LEFT JOIN (with comments) |
@@ -39,7 +39,7 @@ The following datasets were used:
 
 ---
 
-## ✅ SQL Concepts Covered
+## SQL Concepts Covered
 - `INNER JOIN`
 - `LEFT JOIN`
 - Filtering using `WHERE`
@@ -49,7 +49,7 @@ The following datasets were used:
 
 ---
 
-## 🔍 Example Use Cases Solved
+## Example Use Cases Solved
 - Joining customer records with orders to create a complete transaction view
 - Finding customers with **no orders** using LEFT JOIN
 - Product/category performance based on revenue & order count
@@ -57,7 +57,7 @@ The following datasets were used:
 
 ---
 
-## 📌 Business Insights (Summary)
+## Business Insights (Summary)
 Insights are included in `insights.txt`. Some examples:
 - Identification of high-performing categories/products
 - Customer purchase behavior patterns
@@ -65,7 +65,7 @@ Insights are included in `insights.txt`. Some examples:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Import the CSV files into your SQL database
 2. Open `joins_queries.sql`
 3. Run queries one by one in MySQL Workbench / any SQL editor
@@ -73,6 +73,6 @@ Insights are included in `insights.txt`. Some examples:
 
 ---
 
-## 👤 Author
+## Author
 **Samarth Joshi**  
 (Data Analyst Internship Submission – Task 4)
